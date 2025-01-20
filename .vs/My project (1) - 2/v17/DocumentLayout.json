@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\assets\\scripts\\movimenta\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimenta\u00E7\u00E3o.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|c:\\users\\matheus marinho\\desktop\\projetos para colocar no github\\jogo unity\\my project (1) - 2\\assets\\scripts\\tela de fim\\fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tela de fim\\fim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\assets\\playerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|solutionrelative:assets\\playerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\assets\\scripts\\ataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ataque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\assets\\scripts\\barradevida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{312294A8-0D2B-9C87-B052-9587E1CF4EF6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barradevida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fim.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\Tela de Fim\\Fim.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tela de Fim\\Fim.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\Tela de Fim\\Fim.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tela de Fim\\Fim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:13:33.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerPos.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\PlayerPos.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerPos.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\PlayerPos.cs",
+              "RelativeToolTip": "Assets\\PlayerPos.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:10:41.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ataque.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\Ataque.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ataque.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\Ataque.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ataque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:10:36.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "barraDeVida.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\barraDeVida.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\barraDeVida.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\barraDeVida.cs",
+              "RelativeToolTip": "Assets\\Scripts\\barraDeVida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:10:32.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movimenta\u00E7\u00E3o.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\Movimenta\u00E7\u00E3o.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movimenta\u00E7\u00E3o.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Projetos para colocar no GitHub\\Jogo Unity\\My project (1) - 2\\Assets\\Scripts\\Movimenta\u00E7\u00E3o.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movimenta\u00E7\u00E3o.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAswMYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:09:22.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\assets\\scriptsbossnivel\\morte_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsbossnivel\\morte_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\assets\\scripts\\inimigo_medio\\inimigo_medio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inimigo_medio\\inimigo_medio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\assets\\scriptsbossnivel\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsbossnivel\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\assets\\scriptsbossnivel\\bossui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsbossnivel\\bossui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\assets\\scriptsbossnivel\\ativacaoboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsbossnivel\\ativacaoboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\assets\\scriptsbossnivel\\ataque_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsbossnivel\\ataque_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Morte_Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\Morte_Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\scriptsBossNivel\\Morte_Boss.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\Morte_Boss.cs",
+              "RelativeToolTip": "Assets\\scriptsBossNivel\\Morte_Boss.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:43:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\scriptsBossNivel\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\Enemy.cs",
+              "RelativeToolTip": "Assets\\scriptsBossNivel\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:19:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ataque_Boss.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\Ataque_Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\scriptsBossNivel\\Ataque_Boss.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\Ataque_Boss.cs",
+              "RelativeToolTip": "Assets\\scriptsBossNivel\\Ataque_Boss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:58:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inimigo_Medio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\Scripts\\Inimigo_Medio\\Inimigo_Medio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inimigo_Medio\\Inimigo_Medio.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\Scripts\\Inimigo_Medio\\Inimigo_Medio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inimigo_Medio\\Inimigo_Medio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:21:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtivacaoBoss.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\AtivacaoBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\scriptsBossNivel\\AtivacaoBoss.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\AtivacaoBoss.cs",
+              "RelativeToolTip": "Assets\\scriptsBossNivel\\AtivacaoBoss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:24:54.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bossUI.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\bossUI.cs",
+              "RelativeDocumentMoniker": "Assets\\scriptsBossNivel\\bossUI.cs",
+              "ToolTip": "C:\\Users\\Matheus Marinho\\Desktop\\Jogo Adriana - 2.0\\My project (1)\\Assets\\scriptsBossNivel\\bossUI.cs",
+              "RelativeToolTip": "Assets\\scriptsBossNivel\\bossUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:58:12.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
