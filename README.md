@@ -55,11 +55,11 @@ Inimigos Médios: Perseguem o jogador dentro de um raio e precisam de três ataq
 
 Screenshots 📸
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/2 - Tela Inicial" alt="Tela Inicial" width="45%" />
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/1 - Primeira Fase" alt="Tela 2" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/2 - Tela Inicial.png" alt="Menu_Inicial" width="45%" />
+  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/1 - Primeira Fase.png" alt="jogoo" width="45%"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/3 - Segunda Fase" alt="Tela Inicial" width="45%" />
-  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/4 - Tela Final" alt="Tela 2" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/3 - Segunda Fase.png" alt="SampleScene" width="45%" />
+  <img src="https://raw.githubusercontent.com/Matheus25012007/Human-Legacy/main/4 - Tela Final.png" alt="FimGame" width="45%"/>
 </div>
